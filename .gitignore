@@ -1,0 +1,7 @@
+node_modules/
+.env
+*.db
+*.db-wal
+*.db-shm
+client/dist/
+.DS_Store
